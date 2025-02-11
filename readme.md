@@ -12,12 +12,10 @@ Semua dokumen yang tersedia dalam repositori ini bertujuan untuk membantu dalam 
 - Jika ada pelanggaran hak cipta, silakan hubungi kami untuk segera menindaklanjutinya.
 
 ## 📥 Cara Mengakses
-1. Clone repositori ini:
+1. Buka Repositori ini:
    ```bash
-   git clone https://github.com/username/repository.git
+   Setiap PDF Memiliki Judul Algoritma SHA-256 Dikarenakan masalah hak cipta, jadi untuk mengetahui judul PDF, silahkan decrypt terlebih dahulu
    ```
-2. Buka folder yang berisi dokumen PDF.
-3. Gunakan aplikasi PDF reader untuk melihat dokumen.
 
 ## 📩 Kontribusi
 Jika Anda ingin menambahkan dokumen edukatif lainnya, silakan buat pull request dengan menyertakan deskripsi dokumen yang jelas.
